@@ -13,7 +13,7 @@
 
 **EmberOS** is a fully functional browser-based Operating System served directly from an ESP32 microcontroller via its own WiFi hotspot. Connect to it from any phone, tablet, or computer browser — no internet, no cloud, no external server. Just a $1 chip.
 
-Built over **4 months** and **100-200 hours** of development by **[CihoRobotics](https://github.com/CihoRobotics)**.
+Built over **2 months** and development by **[CihoRobotics](https://github.com/CihoRobotics)**.
 
 ---
 
