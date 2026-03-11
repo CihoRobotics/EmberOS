@@ -189,7 +189,7 @@ Also, I had needed so much time for this project. Please suport me/subcribe and 
 
 ---
 
-##🛑 Stop!
+## 🛑 Stop!
 
 Don't forget that this project is the first DEMO and BETA version of the real Ember OS. There can be unexpected bugs, and we will try to repair them. 😎
 
