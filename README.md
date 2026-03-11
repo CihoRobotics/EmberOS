@@ -169,7 +169,7 @@ You may **NOT**:
 - Redistribute this project under a different name or identity
 - Claim authorship of this project in any form
 
-This project was built over **4 months and 100-200 hours** of original work. Please respect the effort behind it.
+Don't forget! This project was built over **2 months and 50-100 hours** of original work. Please respect the effort behind it.
 
 For permissions beyond personal use, contact: **github.com/CihoRobotics**
 
