@@ -185,6 +185,13 @@ For permissions beyond personal use, contact: **github.com/CihoRobotics**
 ## ⭐ Support
 
 If you like this project, please **star the repo** and **share it**! It helps more people discover EmberOS and supports future development. 🔥
+Also, I had needed so much time for this project. Please suport me/subcribe and check out my videos on my youtube channel too: https://www.youtube.com/@CihoRobotics
+
+---
+
+##🛑 Stop!
+
+Don't forget that this project is the first DEMO and BETA version of the real Ember OS. There can be unexpected bugs, and we will try to repair them. 😎
 
 ---
 
