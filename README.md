@@ -17,6 +17,13 @@ Built over **2 months** and developed by **[CihoRobotics](https://github.com/Cih
 
 ---
 
+## ☁️🖥️ How to Use/Download EmberOS?
+There is two ways to do it:
+1.  -If you are a maker like me, you can go to the "EmberOS-BETAv1.0.0_CODE" and directly upload that to arduino IDE with libraries and ect.
+2.  -If you are new to electronics or like easy ways and don't want to work with codes, I've made a WebFlasher just for you, the link is here: https://cihorobotics.github.io/EmberOS-BETAv1.0.0-WEBflasher/
+(Disclaimer! The WebFlasher only allows 3 ESp32 boards: ESP32 WROOM, ESP32 S3 and ESP32 C3. For the other variants, you must upload the code using Arduino IDE!)
+
+---
 ## ✨ Features
 
 ### 🖥️ OS Interface
